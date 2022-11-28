@@ -1,0 +1,16 @@
+.contentJadwalGuru {
+  padding-top: 120px;
+  text-align: center;
+}
+
+.contentJadwalGuruImg {
+  width: 280px;
+}
+
+@media screen and (min-width: 768px) {
+  .contentJadwalGuru {
+    padding-top: 10px;
+    width: 40%;
+    margin: auto;
+  }
+}
